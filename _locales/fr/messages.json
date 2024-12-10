@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "Intra Amélioré (École 42)",
+		"description": "The name of the extension"
+	},
+	"shortAppName": {
+		"message": "Intra Améliore (42)",
+		"description": "The short name of the extension"
+	},
+	"appDesc": {
+		"message": "L'extension ultime pour l'intranet de 42, ajoutant beaucoup, telles que un thème sombre, personnalisation des profils & plus encore!",
+		"description": "The description of the extension"
+	}
+}
